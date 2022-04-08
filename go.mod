@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	cloud.google.com/go v0.99.0 // indirect
-	github.com/BurntSushi/toml v0.4.1
+	github.com/BurntSushi/toml v1.1.0
 	github.com/DATA-DOG/go-sqlmock v1.5.0
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/Masterminds/sprig/v3 v3.2.2
